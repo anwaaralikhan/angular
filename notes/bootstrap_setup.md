@@ -1,3 +1,3 @@
-# angular
+# Setup Angular with Bootstrap
 
-- Setup bootstrap locally 'npm install --save bootstrap`
+- Setup bootstrap locally `npm install --save bootstrap`
