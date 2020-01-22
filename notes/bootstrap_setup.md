@@ -3,7 +3,7 @@
 - Setup bootstrap locally (project node_modules only) `npm install --save bootstrap`
 - Add bootstrap details to script and style tags
 
-`
+```
 "projects": {
   "mirage": {
     "projectType": "application",
@@ -33,4 +33,4 @@
             "node_modules/jquery/dist/jquery.min.js",
             "node_modules/bootstrap/dist/js/bootstrap.min.js"
           ]
-`
+```
