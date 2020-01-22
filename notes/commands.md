@@ -1,0 +1,1 @@
+- ng --serve --open `start project and open the home page in the default browser`
