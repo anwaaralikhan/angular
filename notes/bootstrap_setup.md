@@ -1,7 +1,9 @@
 # Setup Angular with Bootstrap
 
-- Setup bootstrap locally (project node_modules only) `npm install --save bootstrap`
+- Setup bootstrap locally (project node_modules only) `npm install --save bootstrap,jquery`
 - Add bootstrap details to script and style tags
+
+# file (angular.json)
 
 ```
 "projects": {
