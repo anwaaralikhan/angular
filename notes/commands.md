@@ -1,2 +1,2 @@
 - ng --serve --open ` to start project and open the home page in the default browser`
-- ng new newapp
+- ng new appname
